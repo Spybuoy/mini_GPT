@@ -1,5 +1,5 @@
 # mini_GPT
-Introduction
+# Introduction
 This project is a simplified version of the GPT. It consists of the following components:
 Multi-Head Attention
 FeedForward Layer
@@ -7,7 +7,7 @@ Transformer Blocks
 Positional Encoding
 Token Embedding
 
-#Hyperparameters
+# Hyperparameters
 The model is trained with the following hyperparameters:
 
 Batch Size: 16
@@ -22,5 +22,5 @@ Number of Heads: 4
 Number of Layers: 4
 Dropout: 0.0
 
-#Data
+# Data
 The model is trained on the data provided in the input.txt file located in the repo.
